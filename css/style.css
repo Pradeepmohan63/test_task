@@ -1,0 +1,126 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+	font-family: 'Roboto', sans-serif;
+	background-color: #225e90;
+}
+
+.container{
+	width:90%;
+	margin:0 auto;
+}
+
+
+
+ .col1{
+	 width:8.33%;
+	 padding:0 15px;
+ }
+ 
+ .col2{
+	 width:16.66%;
+	 padding:0 15px;
+ }
+ 
+ .col3{
+	 width:25%;
+	 padding:0 15px;
+ }
+ 
+ .col4{
+	 width:33.32%;
+	 padding:0 15px;
+ }
+ 
+ .col5{
+	 width:41.65%;
+	 padding:0 15px;
+ }
+ 
+ .col6{
+	 width:50%;
+	 padding:0 15px;
+ }
+ 
+ .col7{
+	 width:58.31%;
+	 padding:0 15px;
+ }
+ 
+ .col8{
+	 width:66.64%;
+	 padding:0 15px;
+ }
+ 
+ .col9{
+	 width:75%;
+	 padding:0 15px;
+ }
+ 
+ .col10{
+	 width:83.33%;
+	 padding:0 15px;
+ }
+ 
+ .col11{
+	 width:91.63%;
+	 padding:0 15px;
+ }
+ 
+ .col12{
+	 width:100%;
+	 padding:0 15px;
+	 display: flex;
+    justify-content: space-evenly;
+ }
+ 
+ .heading h1{
+	 text-align: center;
+    font-size: 70px;
+	color: white;
+    font-weight: 400;
+ }
+ 
+ .card_section{
+	padding-top: 151px;
+   position:relative;
+ }
+ 
+
+ .card h3{
+	     padding-bottom: 20px;
+		 padding-left: 19px;
+		 color: white;
+		     letter-spacing: 2px;
+			 
+ }
+ 
+ .card p{
+	 padding-top: 20px;
+	 color: white;
+	     font-size: 19px;
+		 
+ }
+ .card i{
+	font-size: 64px;
+    color: white;
+    border: 1px solid #2dd29a;
+    background-color: #2dd29a;
+    border-radius: 69px;
+    display: inline-block;
+    padding: 15px;
+	    position: relative;
+	
+    z-index: 999;
+ }
+ 
+ .border_sec {
+    border-top: 5px solid #28ce96;
+    position: absolute;
+    top: 239px;
+    width: 100%;
+    left: -3%;
+}
+
+
